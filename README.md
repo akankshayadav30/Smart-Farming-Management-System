@@ -24,7 +24,7 @@ Blynk
 ![image](https://user-images.githubusercontent.com/64147100/136645575-6fdcf154-af09-4645-9da5-d91531356f04.png)
 
 Read more:
-https://github.com/Piyush8182/Smart-Farming-Management-System/blob/afda2984f52842565b967c4d892765726ebbcbb2/Software%20Tools
+https://github.com/akankshayadav30/Smart-Farming-Management-System/blob/97e8991a1377be6211aee60098029fccf1dd1374/Software%20Tools
 
 Hardware Requierd :
 
