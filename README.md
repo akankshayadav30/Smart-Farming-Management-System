@@ -62,7 +62,7 @@ Battery of 9/12V
 
 ![image](https://user-images.githubusercontent.com/64147100/136645755-297489e7-405a-4d78-a931-0fc2e63cf590.png)
 
-Read More: https://github.com/Piyush8182/Smart-Farming-Management-System/blob/8d5bcd07933e72704d4204d729f96877004c229c/Hardware%20Tools.txt
+https://github.com/akankshayadav30/Smart-Farming-Management-System/blob/1fabd173bc1cfd83333238900a783642fc90a83f/Hardware%20Tools.txt
 
 
 3.6 Methodology
