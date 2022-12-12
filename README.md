@@ -3,7 +3,7 @@ Internship Project at TEQUED LABS (Bangalore)
 
 
 About TEQUED LABS
-https://github.com/Piyush8182/Smart-Farming-Management-System/blob/d89806466c9816c4ceea5b717d59de7440aa39a8/About%20TEQUED%20LABS.txt
+https://github.com/akankshayadav30/Smart-Farming-Management-System/blob/0d407941d25b427113b7e150fa7c1ee76f1c265b/About%20TEQUED%20LABS.txt
 
 
 TASK PERFORMED:
